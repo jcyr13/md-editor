@@ -1,0 +1,1 @@
+{ "name": "md-editor", "version": "0.1.0", "description": "Open a markdown file in a pane, edit it, and save it", "types": "./types/index.d.ts" }
