@@ -30,3 +30,7 @@ In the desktop app, where `/plugin` does not run: click + next to the prompt box
 - The pane shows plain markdown text, not formatted text.
 - Only Claude's Edit and Write tools mark the file as changed. Changes from Bash or other apps are not seen.
 - Files over 4 MB cannot be opened.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
